@@ -1,0 +1,415 @@
+[
+  {
+    "idx": 0,
+    "video_id": "art_gallery",
+    "timestamp_sec": "0.0",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0000.jpg"
+  },
+  {
+    "idx": 1,
+    "video_id": "art_gallery",
+    "timestamp_sec": "1.969",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0001.jpg"
+  },
+  {
+    "idx": 2,
+    "video_id": "art_gallery",
+    "timestamp_sec": "3.937",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0002.jpg"
+  },
+  {
+    "idx": 3,
+    "video_id": "art_gallery",
+    "timestamp_sec": "5.906",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0003.jpg"
+  },
+  {
+    "idx": 4,
+    "video_id": "art_gallery",
+    "timestamp_sec": "7.875",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0004.jpg"
+  },
+  {
+    "idx": 5,
+    "video_id": "art_gallery",
+    "timestamp_sec": "9.843",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0005.jpg"
+  },
+  {
+    "idx": 6,
+    "video_id": "art_gallery",
+    "timestamp_sec": "11.812",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0006.jpg"
+  },
+  {
+    "idx": 7,
+    "video_id": "art_gallery",
+    "timestamp_sec": "13.78",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0007.jpg"
+  },
+  {
+    "idx": 8,
+    "video_id": "art_gallery",
+    "timestamp_sec": "15.749",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0008.jpg"
+  },
+  {
+    "idx": 9,
+    "video_id": "art_gallery",
+    "timestamp_sec": "17.718",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0009.jpg"
+  },
+  {
+    "idx": 10,
+    "video_id": "art_gallery",
+    "timestamp_sec": "19.686",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0010.jpg"
+  },
+  {
+    "idx": 11,
+    "video_id": "art_gallery",
+    "timestamp_sec": "21.655",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0011.jpg"
+  },
+  {
+    "idx": 12,
+    "video_id": "art_gallery",
+    "timestamp_sec": "23.624",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0012.jpg"
+  },
+  {
+    "idx": 13,
+    "video_id": "art_gallery",
+    "timestamp_sec": "25.592",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0013.jpg"
+  },
+  {
+    "idx": 14,
+    "video_id": "art_gallery",
+    "timestamp_sec": "27.561",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0014.jpg"
+  },
+  {
+    "idx": 15,
+    "video_id": "art_gallery",
+    "timestamp_sec": "29.53",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0015.jpg"
+  },
+  {
+    "idx": 16,
+    "video_id": "art_gallery",
+    "timestamp_sec": "31.498",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0016.jpg"
+  },
+  {
+    "idx": 17,
+    "video_id": "art_gallery",
+    "timestamp_sec": "33.467",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0017.jpg"
+  },
+  {
+    "idx": 18,
+    "video_id": "art_gallery",
+    "timestamp_sec": "35.435",
+    "scene_id": "",
+    "file_path": "data/frames\\art_gallery\\art_gallery_frame_0018.jpg"
+  },
+  {
+    "idx": 19,
+    "video_id": "artist",
+    "timestamp_sec": "0.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0000.jpg"
+  },
+  {
+    "idx": 20,
+    "video_id": "artist",
+    "timestamp_sec": "2.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0001.jpg"
+  },
+  {
+    "idx": 21,
+    "video_id": "artist",
+    "timestamp_sec": "4.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0002.jpg"
+  },
+  {
+    "idx": 22,
+    "video_id": "artist",
+    "timestamp_sec": "6.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0003.jpg"
+  },
+  {
+    "idx": 23,
+    "video_id": "artist",
+    "timestamp_sec": "8.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0004.jpg"
+  },
+  {
+    "idx": 24,
+    "video_id": "artist",
+    "timestamp_sec": "10.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0005.jpg"
+  },
+  {
+    "idx": 25,
+    "video_id": "artist",
+    "timestamp_sec": "12.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0006.jpg"
+  },
+  {
+    "idx": 26,
+    "video_id": "artist",
+    "timestamp_sec": "14.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0007.jpg"
+  },
+  {
+    "idx": 27,
+    "video_id": "artist",
+    "timestamp_sec": "16.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0008.jpg"
+  },
+  {
+    "idx": 28,
+    "video_id": "artist",
+    "timestamp_sec": "18.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0009.jpg"
+  },
+  {
+    "idx": 29,
+    "video_id": "artist",
+    "timestamp_sec": "20.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0010.jpg"
+  },
+  {
+    "idx": 30,
+    "video_id": "artist",
+    "timestamp_sec": "22.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0011.jpg"
+  },
+  {
+    "idx": 31,
+    "video_id": "artist",
+    "timestamp_sec": "24.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0012.jpg"
+  },
+  {
+    "idx": 32,
+    "video_id": "artist",
+    "timestamp_sec": "26.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0013.jpg"
+  },
+  {
+    "idx": 33,
+    "video_id": "artist",
+    "timestamp_sec": "28.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0014.jpg"
+  },
+  {
+    "idx": 34,
+    "video_id": "artist",
+    "timestamp_sec": "30.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0015.jpg"
+  },
+  {
+    "idx": 35,
+    "video_id": "artist",
+    "timestamp_sec": "32.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0016.jpg"
+  },
+  {
+    "idx": 36,
+    "video_id": "artist",
+    "timestamp_sec": "34.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0017.jpg"
+  },
+  {
+    "idx": 37,
+    "video_id": "artist",
+    "timestamp_sec": "36.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0018.jpg"
+  },
+  {
+    "idx": 38,
+    "video_id": "artist",
+    "timestamp_sec": "38.0",
+    "scene_id": "",
+    "file_path": "data/frames\\artist\\artist_frame_0019.jpg"
+  },
+  {
+    "idx": 39,
+    "video_id": "painting",
+    "timestamp_sec": "0.0",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0000.jpg"
+  },
+  {
+    "idx": 40,
+    "video_id": "painting",
+    "timestamp_sec": "1.969",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0001.jpg"
+  },
+  {
+    "idx": 41,
+    "video_id": "painting",
+    "timestamp_sec": "3.937",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0002.jpg"
+  },
+  {
+    "idx": 42,
+    "video_id": "painting",
+    "timestamp_sec": "5.906",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0003.jpg"
+  },
+  {
+    "idx": 43,
+    "video_id": "painting",
+    "timestamp_sec": "7.875",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0004.jpg"
+  },
+  {
+    "idx": 44,
+    "video_id": "painting",
+    "timestamp_sec": "9.843",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0005.jpg"
+  },
+  {
+    "idx": 45,
+    "video_id": "painting",
+    "timestamp_sec": "11.812",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0006.jpg"
+  },
+  {
+    "idx": 46,
+    "video_id": "painting",
+    "timestamp_sec": "13.78",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0007.jpg"
+  },
+  {
+    "idx": 47,
+    "video_id": "painting",
+    "timestamp_sec": "15.749",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0008.jpg"
+  },
+  {
+    "idx": 48,
+    "video_id": "painting",
+    "timestamp_sec": "17.718",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0009.jpg"
+  },
+  {
+    "idx": 49,
+    "video_id": "painting",
+    "timestamp_sec": "19.686",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0010.jpg"
+  },
+  {
+    "idx": 50,
+    "video_id": "painting",
+    "timestamp_sec": "21.655",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0011.jpg"
+  },
+  {
+    "idx": 51,
+    "video_id": "painting",
+    "timestamp_sec": "23.624",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0012.jpg"
+  },
+  {
+    "idx": 52,
+    "video_id": "painting",
+    "timestamp_sec": "25.592",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0013.jpg"
+  },
+  {
+    "idx": 53,
+    "video_id": "painting",
+    "timestamp_sec": "27.561",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0014.jpg"
+  },
+  {
+    "idx": 54,
+    "video_id": "painting",
+    "timestamp_sec": "29.53",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0015.jpg"
+  },
+  {
+    "idx": 55,
+    "video_id": "painting",
+    "timestamp_sec": "31.498",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0016.jpg"
+  },
+  {
+    "idx": 56,
+    "video_id": "painting",
+    "timestamp_sec": "33.467",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0017.jpg"
+  },
+  {
+    "idx": 57,
+    "video_id": "painting",
+    "timestamp_sec": "35.435",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0018.jpg"
+  },
+  {
+    "idx": 58,
+    "video_id": "painting",
+    "timestamp_sec": "37.404",
+    "scene_id": "",
+    "file_path": "data/frames\\painting\\painting_frame_0019.jpg"
+  }
+]

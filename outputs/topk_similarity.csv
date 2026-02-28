@@ -1,0 +1,16 @@
+query_idx,query_file,rank,match_idx,match_file,score
+0,data/frames\art_gallery\art_gallery_frame_0000.jpg,1,1,data/frames\art_gallery\art_gallery_frame_0001.jpg,0.9445
+0,data/frames\art_gallery\art_gallery_frame_0000.jpg,2,2,data/frames\art_gallery\art_gallery_frame_0002.jpg,0.9196
+0,data/frames\art_gallery\art_gallery_frame_0000.jpg,3,4,data/frames\art_gallery\art_gallery_frame_0004.jpg,0.91
+0,data/frames\art_gallery\art_gallery_frame_0000.jpg,4,3,data/frames\art_gallery\art_gallery_frame_0003.jpg,0.9068
+0,data/frames\art_gallery\art_gallery_frame_0000.jpg,5,5,data/frames\art_gallery\art_gallery_frame_0005.jpg,0.889
+29,data/frames\artist\artist_frame_0010.jpg,1,31,data/frames\artist\artist_frame_0012.jpg,0.9601
+29,data/frames\artist\artist_frame_0010.jpg,2,33,data/frames\artist\artist_frame_0014.jpg,0.9485
+29,data/frames\artist\artist_frame_0010.jpg,3,32,data/frames\artist\artist_frame_0013.jpg,0.9461
+29,data/frames\artist\artist_frame_0010.jpg,4,30,data/frames\artist\artist_frame_0011.jpg,0.944
+29,data/frames\artist\artist_frame_0010.jpg,5,34,data/frames\artist\artist_frame_0015.jpg,0.9261
+58,data/frames\painting\painting_frame_0019.jpg,1,51,data/frames\painting\painting_frame_0012.jpg,0.9665
+58,data/frames\painting\painting_frame_0019.jpg,2,50,data/frames\painting\painting_frame_0011.jpg,0.9566
+58,data/frames\painting\painting_frame_0019.jpg,3,54,data/frames\painting\painting_frame_0015.jpg,0.9507
+58,data/frames\painting\painting_frame_0019.jpg,4,56,data/frames\painting\painting_frame_0017.jpg,0.9501
+58,data/frames\painting\painting_frame_0019.jpg,5,52,data/frames\painting\painting_frame_0013.jpg,0.9495

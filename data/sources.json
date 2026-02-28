@@ -1,0 +1,31 @@
+{
+  "videos": [
+    {
+      "video_id": "video_01",
+      "title": "Abstract Art Visuals",
+      "creator": "Sergey Semenov",
+      "platform": "Pixabay",
+      "url": "https://pixabay.com/videos/id-43328/",
+      "license": "Pixabay Content License",
+      "filename": "video_01.mp4"
+    },
+    {
+      "video_id": "video_02",
+      "title": "A Woman Having Herself Sketch in Canvas Painting",
+      "creator": "cottonbro studio",
+      "platform": "Pexels",
+      "url": "https://www.pexels.com/video/3795833/",
+      "license": "Pexels License",
+      "filename": "video_02.mp4"
+    },
+    {
+      "video_id": "video_03",
+      "title": "Close-Up Shot of a Graffiti",
+      "creator": "Nicole Learner",
+      "platform": "Pexels",
+      "url": "https://www.pexels.com/video/6189526/",
+      "license": "Pexels License",
+      "filename": "video_03.mp4"
+    }
+  ]
+}
